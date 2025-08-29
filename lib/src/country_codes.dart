@@ -216,7 +216,7 @@ const List<Map<String, String>> codes = [
   },
   {"name": "Vaticano", "code": "VA", "iso3Code": "VAT", "dial_code": "+379"},
   {"name": "Honduras", "code": "HN", "iso3Code": "HND", "dial_code": "+504"},
-  {"name": "中国香港", "code": "HK", "iso3Code": "HKG", "dial_code": "+852"},
+  {"name": "中國香港", "code": "HK", "iso3Code": "HKG", "dial_code": "+852"},
   {"name": "Magyarország", "code": "HU", "iso3Code": "HUN", "dial_code": "+36"},
   {"name": "Ísland", "code": "IS", "iso3Code": "ISL", "dial_code": "+354"},
   {"name": "भारत", "code": "IN", "iso3Code": "IND", "dial_code": "+91"},
@@ -461,10 +461,17 @@ const List<Map<String, String>> codes = [
   {"name": "Schweiz", "code": "CH", "iso3Code": "CHE", "dial_code": "+41"},
   {"name": "سوريا", "code": "SY", "iso3Code": "SYR", "dial_code": "+963"},
 <<<<<<< HEAD
+<<<<<<< HEAD
   {"name": "中国臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
 =======
   {"name": "中國臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
 >>>>>>> 0460f3f (Standardizing the description of various regions in China)
+=======
+  {"name": "中國臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
+=======
+  {"name": "中国臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
+>>>>>>> 1822bae (Update country_codes.dart)
+>>>>>>> f845530 (Update country_codes.dart)
   {"name": "Тоҷикистон", "code": "TJ", "iso3Code": "TJK", "dial_code": "+992"},
   {"name": "Tanzania", "code": "TZ", "iso3Code": "TZA", "dial_code": "+255"},
   {"name": "ประเทศไทย", "code": "TH", "iso3Code": "THA", "dial_code": "+66"},
