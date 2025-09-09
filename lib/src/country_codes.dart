@@ -258,11 +258,7 @@ const List<Map<String, String>> codes = [
   },
   {"name": "Lietuva", "code": "LT", "iso3Code": "LTU", "dial_code": "+370"},
   {"name": "Luxembourg", "code": "LU", "iso3Code": "LUX", "dial_code": "+352"},
-<<<<<<< HEAD
-  {"name": "中国澳門", "code": "MO", "iso3Code": "MAC", "dial_code": "+853"},
-=======
   {"name": "中國澳門", "code": "MO", "iso3Code": "MAC", "dial_code": "+853"},
->>>>>>> 0460f3f (Standardizing the description of various regions in China)
   {"name": "Македонија", "code": "MK", "iso3Code": "MKD", "dial_code": "+389"},
   {
     "name": "Madagasikara",
