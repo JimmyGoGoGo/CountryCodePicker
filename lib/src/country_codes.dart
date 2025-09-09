@@ -456,18 +456,7 @@ const List<Map<String, String>> codes = [
   {"name": "Sverige", "code": "SE", "iso3Code": "SWE", "dial_code": "+46"},
   {"name": "Schweiz", "code": "CH", "iso3Code": "CHE", "dial_code": "+41"},
   {"name": "سوريا", "code": "SY", "iso3Code": "SYR", "dial_code": "+963"},
-<<<<<<< HEAD
-<<<<<<< HEAD
   {"name": "中国臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
-=======
-  {"name": "中國臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
->>>>>>> 0460f3f (Standardizing the description of various regions in China)
-=======
-  {"name": "中國臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
-=======
-  {"name": "中国臺灣", "code": "TW", "iso3Code": "TWN", "dial_code": "+886"},
->>>>>>> 1822bae (Update country_codes.dart)
->>>>>>> f845530 (Update country_codes.dart)
   {"name": "Тоҷикистон", "code": "TJ", "iso3Code": "TJK", "dial_code": "+992"},
   {"name": "Tanzania", "code": "TZ", "iso3Code": "TZA", "dial_code": "+255"},
   {"name": "ประเทศไทย", "code": "TH", "iso3Code": "THA", "dial_code": "+66"},
